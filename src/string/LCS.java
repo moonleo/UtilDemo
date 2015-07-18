@@ -1,9 +1,7 @@
 package string;
 
 /**
- * 
- * ��������������Ӵ�
- *
+ * 最大公共子序列
  */
 public class LCS {
 	
